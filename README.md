@@ -8,7 +8,7 @@
    > Staging Area에서 Working Directory로 가져올때 사용하는 명령어
 3. clear
    > 현재 터미널 창 청소
-4. log oneline
+4. log --oneline
 5. fork
    > 다른 사람 GitHub의 레퍼지터리를 내 GitHub로 가져올 수 있음
    > 의견 제시 방법 : 레퍼지터리의 issues에서 작성 혹은 첨삭
@@ -18,6 +18,8 @@
    - --d (브랜치) : 브랜치 삭제
 7. switch (브랜치)
    > 브랜치 라인 바꾸기
+8. rm -rf .git
+   > git 해제 명령어
 
 ---
 
