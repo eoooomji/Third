@@ -21,7 +21,7 @@
 8. rm -rf .git
    > git 해제 명령어
 9. git remote remove origin
-   > 기존 레퍼지터리 remote 
+   > 기존 레퍼지터리 remote 제거
 
 ---
 
